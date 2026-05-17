@@ -1,0 +1,9 @@
+{
+  "name": "cmps465-serverless-pipeline",
+  "version": "1.0.0",
+  "description": "Serverless CSV data pipeline using Azure Functions and Cosmos DB",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0"
+  }
+}
